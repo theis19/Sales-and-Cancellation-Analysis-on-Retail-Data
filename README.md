@@ -1,7 +1,7 @@
 # Online Retail II – Sales & Cancellation Analysis  
-
-This project is part of a Data Scientist take-home assignment.  
-The analysis explores the **Online Retail II (UCI)** dataset, focusing on **order cancellations** and their impact on sales.  
+ 
+The analysis explores the **Online Retail II (UCI)** dataset, focusing on **order cancellations** and their impact on sales.
+Dataset taken from [Online Retail II Dataset (Kaggle)](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci/data)
 
 ## 📊 Project Overview  
 E-commerce transactions often contain cancellations, which represent **lost sales**.  
