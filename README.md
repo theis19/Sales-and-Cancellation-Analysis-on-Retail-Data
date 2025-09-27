@@ -1,6 +1,7 @@
 # Online Retail II – Sales & Cancellation Analysis  
  
 The analysis explores the **Online Retail II (UCI)** dataset, focusing on **order cancellations** and their impact on sales.
+
 Dataset taken from [Online Retail II Dataset (Kaggle)](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci/data)
 
 ## 📊 Project Overview  
